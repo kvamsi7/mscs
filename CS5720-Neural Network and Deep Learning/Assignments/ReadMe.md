@@ -3,7 +3,7 @@
 - Studen ID: 700756973
 - Email: vxk69731@ucmo.edu
 
-## <a href="CS5720-Neural Network and Deep Learning/Assignments/ICP-1/ICP-1.ipynb" target="_blank">ICP-1</a> 
+## [ICP-1](CS5720-Neural Network and Deep Learning/Assignments/ICP-1/ICP-1.ipynb)
  #### - Video Link : https://drive.google.com/file/d/1YKveeErvoszbvHzWBLAZCW6c8jdglNNP/view?usp=sharing
 
  In the Assignment 1 of ICP-1, I have deleloped the solution for three problems.
