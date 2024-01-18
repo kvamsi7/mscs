@@ -1,14 +1,14 @@
-Student Info:
+## Student Info:
 - Name: Katam Vamsi Krishna
 - Studen ID: 700756973
 - Email: vxk69731@ucmo.edu
 
-ICP-1
- - Video Link : https://drive.google.com/file/d/1YKveeErvoszbvHzWBLAZCW6c8jdglNNP/view?usp=sharing
+### ICP-1
+ #### - Video Link : https://drive.google.com/file/d/1YKveeErvoszbvHzWBLAZCW6c8jdglNNP/view?usp=sharing
 
  In the Assignment 1 of ICP-1, I have deleloped the solution for three problems.
  
- Key points to notice for each program:
+ ##### Key points to notice for each program:
  
  program 1.1 and 1.2: 
    - Used list slicing method and delete the characters from the list
