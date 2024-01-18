@@ -1,5 +1,4 @@
 Python Course
-
 Deep Learning Course
 Word_Count:
 Python : 1 
