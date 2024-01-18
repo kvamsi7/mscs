@@ -8,5 +8,5 @@ In the Assignment 2 of ICP-2, I have developed the solution for three problem st
 
 #### Key points to notice for each program:
   - Used simple techniques of string concatenation and string slicing to completer solution 1.1 and 1.2
-  - 
-  - 
+  - performed file read and write operations and computed the word frequencies by iteration over each word of each line for solution 2
+  - used convertional nested loop and python list comprehension to convert a list of data of height from inches to centimetres.
