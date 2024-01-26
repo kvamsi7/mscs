@@ -9,3 +9,5 @@
 ## [ICP-2](https://github.com/kvamsi7/mscs/tree/mscs_nn/CS5720-Neural%20Network%20and%20Deep%20Learning/Assignments/ICP-2)
  #### - [Video Link](https://drive.google.com/file/d/1YKveeErvoszbvHzWBLAZCW6c8jdglNNP/view?usp=sharing)
 
+## [ICP-3](https://github.com/kvamsi7/mscs/tree/mscs_nn/CS5720-Neural%20Network%20and%20Deep%20Learning/Assignments/ICP-3)
+#### - [Video Link](https://drive.google.com/file/d/1YKveeErvoszbvHzWBLAZCW6c8jdglNNP/view?usp=sharing)
