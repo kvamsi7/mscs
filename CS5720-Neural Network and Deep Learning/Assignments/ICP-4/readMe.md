@@ -6,7 +6,7 @@
 ## [ICP-4](https://github.com/kvamsi7/mscs/blob/mscs_nn/CS5720-Neural%20Network%20and%20Deep%20Learning/Assignments/ICP-4/ICP-4.ipynb)
  #### - <b>In Class</b>
 
- In the Assignment 2 of ICP-3, I have developed the solution for two problem statements
+ In the Assignment 4 of ICP-4, I have developed the solution for two problem statements
 
 #### Key points to notice for each program:
   - Used pandas and numpy libraries to perform data manipulation tasks on the dataset
