@@ -4,7 +4,7 @@
 - Email: vxk69731@ucmo.edu
 
 ## [ICP-5](https://github.com/kvamsi7/mscs/blob/mscs_nn/CS5720-Neural%20Network%20and%20Deep%20Learning/Assignments/ICP-5/ICP-5.ipynb)
- #### - [Video Link](https://drive.google.com/file/d/1G8O7_wKC3CN4o_eljWfm180vqTLySmyO/view?usp=sharing)
+ #### - [Video Link](https://drive.google.com/file/d/1MeNYO1BXYfBGNLFf8--UP8_LWzI6N0gw/view?usp=drive_link)
 
  In the Assignment 5 of ICP-5, I have developed the solution for two problem statements
 
