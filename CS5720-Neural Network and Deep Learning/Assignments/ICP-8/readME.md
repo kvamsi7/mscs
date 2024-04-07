@@ -3,15 +3,14 @@
 - Studen ID: 700756973
 - Email: vxk69731@ucmo.edu
 
-## [ICP-1](https://github.com/kvamsi7/mscs/blob/mscs_nn/CS5720-Neural%20Network%20and%20Deep%20Learning/Assignments/ICP-1/ICP-1.ipynb)
- #### - [Video Link](https://drive.google.com/file/d/1YKveeErvoszbvHzWBLAZCW6c8jdglNNP/view?usp=sharing)
+## [ICP-8](https://github.com/kvamsi7/mscs/blob/mscs_nn/CS5720-Neural%20Network%20and%20Deep%20Learning/Assignments/ICP-8/ICP-8.ipynb)
+ #### - [Video Link](https://drive.google.com/file/d/1MeNYO1BXYfBGNLFf8--UP8_LWzI6N0gw/view?usp=drive_link)
 
-## [ICP-2](https://github.com/kvamsi7/mscs/tree/mscs_nn/CS5720-Neural%20Network%20and%20Deep%20Learning/Assignments/ICP-2)
- #### - [Video Link](https://drive.google.com/file/d/1YKveeErvoszbvHzWBLAZCW6c8jdglNNP/view?usp=sharing)
+ In the Assignment 8 of ICP-8, I have developed the solution for two problem statements
 
-## [ICP-3](https://github.com/kvamsi7/mscs/tree/mscs_nn/CS5720-Neural%20Network%20and%20Deep%20Learning/Assignments/ICP-3)
-#### - [Video Link](https://drive.google.com/file/d/1YKveeErvoszbvHzWBLAZCW6c8jdglNNP/view?usp=sharing)
+#### Key points to notice for each program:
+  - 
+  - 
+  - 
 
-## [ICP-4](https://github.com/kvamsi7/mscs/tree/mscs_nn/CS5720-Neural%20Network%20and%20Deep%20Learning/Assignments/ICP-4)
-#### - <b> In class </b>
 
